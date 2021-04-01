@@ -11,5 +11,3 @@ Skills: Swift, Swift-UI, Objective-C, Java, Kotlin, React Native, Flutter, AWS, 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FullStackDevCoach&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FullStackDevCoach)  
-
