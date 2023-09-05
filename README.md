@@ -3,7 +3,7 @@
 I am a Senior iOS/Android/Full-Stack Developer
 
 Skills: 
-Mobile - React Native, iONIC, Flutter
+Mobile - React Native, iONIC, Flutter.
 Web - MERN, MEAN Stacks
 
 
